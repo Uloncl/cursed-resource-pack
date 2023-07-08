@@ -1,0 +1,11 @@
+{
+    "block.portal.ambient": {
+        "sounds": [
+            "portal/portal",
+            "portal/portal2",
+            "portal/portal3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.portal.ambient"
+    }
+}
