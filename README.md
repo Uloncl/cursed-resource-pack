@@ -13,3 +13,7 @@ I dont expect anyone to play with this on for very long but enjoy if you do choo
 - play the game
 
 I will probably add more sounds in the future to other mobs and blocks
+
+sources:
+- curseforge: https://legacy.curseforge.com/minecraft/texture-packs/cursed-sounds-resource-pack
+- modrinth: https://modrinth.com/resourcepack/uloncls-cursed-sounds
